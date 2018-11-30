@@ -23,6 +23,16 @@
 		"oAP": "/browserconfig.xml",
 		"oF": 0
 		},
+	"/css/main-min.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "/css/main-min-min.css",
+		"oF": 0,
+		"oS": 3
+		},
 	"/css/main.css": {
 		"aP": 1,
 		"bl": 0,
@@ -218,6 +228,83 @@
 		"oA": 0,
 		"oAP": "/img/.gitignore",
 		"oF": 0
+		},
+	"/img/bg/about-us-bg.jpg": {
+		"ft": 16384,
+		"iS": 1092783,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/img/bg/about-us-bg.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/img/bg/landing-page-bg.jpg": {
+		"ft": 16384,
+		"iS": 1708786,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/img/bg/landing-page-bg.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/img/bg/products-bg.jpeg": {
+		"ft": 16384,
+		"iS": 1973066,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/img/bg/products-bg.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/img/team/griffin_rowell.jpg": {
+		"ft": 16384,
+		"iS": 7171,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/img/team/griffin_rowell.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/img/team/justin_cook.jpg": {
+		"ft": 16384,
+		"iS": 2190977,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/img/team/justin_cook.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/img/team/kendra_cook.jpg": {
+		"ft": 16384,
+		"iS": 9098548,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/img/team/kendra_cook.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/img/WE logo V2 full w box.jpg": {
+		"ft": 16384,
+		"iS": 632029,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/img/WE logo V2 full w box.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"/index.html": {
 		"cB": 0,
